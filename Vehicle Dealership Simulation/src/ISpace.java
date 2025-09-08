@@ -1,0 +1,3 @@
+interface ISpace {
+    String navigateSpace();
+}

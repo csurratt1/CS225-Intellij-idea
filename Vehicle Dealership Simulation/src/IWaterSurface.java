@@ -1,0 +1,3 @@
+interface IWaterSurface {
+    String sail();
+}
